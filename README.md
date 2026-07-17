@@ -23,6 +23,7 @@ Writing about all of it at [unland.dev](https://unland.dev).
 | [rtl-ml](https://github.com/TrevTron/rtl-ml) | 🟢 Active | AI-powered radio signal classifier using RTL-SDR + ML on ARM hardware |
 | [crowview-cyberdeck](https://github.com/TrevTron/crowview-cyberdeck) | 🟢 Active | Raspberry Pi / Nova multi-display RF dashboard with CrowPanel ESP32-S3 + CrowView Note |
 | [millclock-in14-workstation](https://github.com/TrevTron/millclock-in14-workstation) | 🟢 Active | Millclock IN-14 timekeeping and display integration within a larger security research workstation |
+| [youyeetoo-x1s-kali](https://github.com/TrevTron/youyeetoo-x1s-kali) | 🟢 Active | Kali Linux NVMe rebuild, thermal testing, local AI benchmarks, and a loopback security workflow on the X1S |
 
 ## Let's talk
 
