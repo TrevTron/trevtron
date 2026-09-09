@@ -19,6 +19,7 @@ Writing about all of it at [unland.dev](https://unland.dev).
 
 | Project | Status | What it is |
 |---------|--------|------------|
+| [marauder-analyst](https://github.com/TrevTron/marauder-analyst) | 🟢 Active | Local ESP32 Marauder capture analysis with deterministic PCAP briefs, small local models, and claim reconciliation |
 | [indiedroid-nova-llm](https://github.com/TrevTron/indiedroid-nova-llm) | 🟢 Active | LLM inference benchmarks on RK3588S hardware |
 | [rtl-ml](https://github.com/TrevTron/rtl-ml) | 🟢 Active | AI-powered radio signal classifier using RTL-SDR + ML on ARM hardware |
 | [crowview-cyberdeck](https://github.com/TrevTron/crowview-cyberdeck) | 🟢 Active | Raspberry Pi / Nova multi-display RF dashboard with CrowPanel ESP32-S3 + CrowView Note |
