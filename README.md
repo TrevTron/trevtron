@@ -19,6 +19,7 @@ Writing about all of it at [unland.dev](https://unland.dev).
 
 | Project | Status | What it is |
 |---------|--------|------------|
+| [protectli-home-soc](https://github.com/TrevTron/protectli-home-soc) | 🟢 Active | Home SOC built around a Protectli V1610 with OPNsense and Suricata, tested firewall detection and blocking, and a local evidence dashboard with rolling log retention. [Build article](https://unland.dev/blog/building-home-soc-protectli-vault) |
 | [marauder-analyst](https://github.com/TrevTron/marauder-analyst) | 🟢 Active | Local ESP32 Marauder capture analysis with deterministic PCAP briefs, small local models, and claim reconciliation |
 | [indiedroid-nova-llm](https://github.com/TrevTron/indiedroid-nova-llm) | 🟢 Active | LLM inference benchmarks on RK3588S hardware |
 | [rtl-ml](https://github.com/TrevTron/rtl-ml) | 🟢 Active | AI-powered radio signal classifier using RTL-SDR + ML on ARM hardware |
